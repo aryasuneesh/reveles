@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.1",
+    "nodemon": "^2.0.20"
+  },
+  "name": "reveles",
+  "version": "1.0.0",
+  "description": "Novas locos reveles",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "javascript"
+  ],
+  "author": "Arya Suneesh",
+  "license": "ISC"
+}
